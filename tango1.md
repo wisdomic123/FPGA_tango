@@ -17,7 +17,6 @@ PAL
       - fixed OR, programmable AND
       - sum-of-products
     - output logic macrocells
-   - typical working flow
-    - 
+   - typical working flow <a href="https://github.com/wisdomic123/FPGA_tango/blob/master/PAL_16L8.pdf">datasheet</a>
 GAL
 PLD
